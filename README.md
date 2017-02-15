@@ -11,13 +11,13 @@ place the students_t.m file in your working matlab directory to use for the curr
 Option 2:
 add the file into the toolbox directory for matlab...
 OSX:
-*navigate to Applications -> Matlab -> toolbox (see Note)
-*create folder named "students"
-*place students_t.m file in the new folder
-*navigate to Applications -> Matlab -> toolbox -> local
-*open the startup.m file for editing
-*add the line: addpath('/Applications/MATLAB_R2016a.app/toolbox/students/');
-*save file and restart Matlab
+* navigate to Applications -> Matlab -> toolbox (see Note)
+* create folder named "students"
+* place students_t.m file in the new folder
+* navigate to Applications -> Matlab -> toolbox -> local
+* open the startup.m file for editing
+* add the line: addpath('/Applications/MATLAB_R2016a.app/toolbox/students/');
+* save file and restart Matlab
 
 
 
